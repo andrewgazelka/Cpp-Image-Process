@@ -39,3 +39,7 @@ We will compare rotation for 45 degrees
 
 
 # Experiences
+This project was very interesting. However, I still had to go through a lot of work to get everything working.
+Part of this was because of my love for abstraction. I tried to subtract pixels by pixels, but I forgot about 
+bounds already built into the system (for example pixels are limited to not have negative values).
+Many of the issues lead to very interesting computer art. I overall really enjoyed this project.
