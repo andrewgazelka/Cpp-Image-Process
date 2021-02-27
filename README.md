@@ -26,3 +26,16 @@ Where `jf.jpg` is the jelly fish image
 |**Floyd-Steinberg Dither**|`image -input jf.jpg -FloydSteinbergDither 2 -output img.jpg` | ![Jellyfish red](.github/fs.jpg) |
 |**Scale**|`image -input jf.jpg -scale 1.5 2.3 -output img.jpg` | ![Jellyfish red](.github/scale.jpg) |
 |**Rotate**|`image -input jf.jpg -rotate 45 -output img.jpg` | ![Jellyfish red](.github/rot.jpg) |
+
+# Scaling Methods
+
+We will compare rotation for 45 degrees
+
+|Number|Category|Image|
+|--|--|--|
+0|Point|![rot0](.github/rot0.jpg)|
+1|Bilinear|![rot0](.github/rot1.jpg)|
+2|Gaussian|![rot0](.github/rot2.jpg)|
+
+
+# Experiences
