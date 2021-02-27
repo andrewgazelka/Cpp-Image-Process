@@ -1,6 +1,6 @@
 # CSCI 5607 Project 2
 
-## Image Gallary
+## Commands
 Where `jf.jpg` is the jelly fish image
 
 ![Jellyfish](.github/JellyFish.jpg)
@@ -25,4 +25,4 @@ Where `jf.jpg` is the jelly fish image
 |**Edge Detect**|`image -input jf.jpg -edgeDetect -output img.jpg` | ![Jellyfish red](.github/ed.jpg) |
 |**Floyd-Steinberg Dither**|`image -input jf.jpg -FloydSteinbergDither 2 -output img.jpg` | ![Jellyfish red](.github/fs.jpg) |
 |**Scale**|`image -input jf.jpg -scale 1.5 2.3 -output img.jpg` | ![Jellyfish red](.github/scale.jpg) |
-|**Scale**|`image -input jf.jpg -scale 1.5 2.3 -output img.jpg` | ![Jellyfish red](.github/scale.jpg) |
+|**Rotate**|`image -input jf.jpg -rotate 45 -output img.jpg` | ![Jellyfish red](.github/rot.jpg) |
