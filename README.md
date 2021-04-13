@@ -1,4 +1,5 @@
-# CSCI 5607 Project 2
+# Image Processing Library
+_For CSCI 5607 Project 2_
 
 ## Commands
 Where `jf.jpg` is the jelly fish image
